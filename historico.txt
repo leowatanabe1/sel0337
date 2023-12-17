@@ -1,0 +1,15 @@
+cd sel
+cd 91
+mkdir git
+cd git 
+git clone https://github.com/leowatanabe1/sel0337
+cd ..
+cp tag1.py tag2.py ./git/sel0337
+cd git
+cd sel0337
+ls
+git status
+git add tag1.py tag2.py
+git status
+git commit -a -m "Adicionando arquivos.py"
+git push
