@@ -21,5 +21,4 @@ Então como estava com pouco tempo e tava com receio de ter feito a conexão err
 
 Agora, para a atividade do git, fiz todo o procedimento para colocar os arquivos python no meu repositório, mas ocorria algum erro que eu não consegui arrumar.
 Fiz o token certinho, e segui os passos que estavam no slide, porém quando eu colocava o token ao pedir a senha, dizia que ocorreu um erro, que a senha não correspondia.
- 
- 
+No repositório deixei os comandos que eu usei, talvez você consegue identificar algum erro.
