@@ -3,6 +3,8 @@ Depois, basta criar um loop que fica fazendo a leitura da tag, por meio da funç
 
 Ao ler uma tag, comparamos o id com o id já cadastrado. Se for o mesmo, o acesso é liberado e acende um led verde, caso controário, o acesso é negado e acende umn led vermelho.
 
+Coloquei as fotos no repositório.
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 Quanto ao uso da camera, quando fui testar a camera com o comando libcamera-hello, deu o seguinte erro:
@@ -17,6 +19,7 @@ Então como estava com pouco tempo e tava com receio de ter feito a conexão err
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Agora, para a atividade do git, fiz todo o procedimento para 
+Agora, para a atividade do git, fiz todo o procedimento para colocar os arquivos python no meu repositório, mas ocorria algum erro que eu não consegui arrumar.
+Fiz o token certinho, e segui os passos que estavam no slide, porém quando eu colocava o token ao pedir a senha, dizia que ocorreu um erro, que a senha não correspondia.
  
  
